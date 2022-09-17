@@ -121,7 +121,7 @@
                                 <div class="main-menu__main-menu-box-inner">
                                     <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                     <ul class="main-menu__list one-page-scroll-menu">
-                                        <li class="dropdown current scrollToLink">
+                                        <li class="current scrollToLink">
                                             <a href="#home">Home </a>
                                         </li>
                                         <li class="scrollToLink">
