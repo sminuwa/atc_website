@@ -100,9 +100,9 @@
                          </div>--}}
                         <div class="main-header__top-social-box">
                             <div class="main-header__top-social">
-                                <a href="http://app.albabello.com">Memo</a>
-                                <a href="http://sage.albabello.com">Sage</a>
-                                <a href="mail.albabellogroup.com">Zimbra</a>
+                                <a target="_blank" href="http://app.albabello.com">Memo</a>
+                                <a target="_blank"  href="http://sage.albabello.com">Sage</a>
+                                <a target="_blank"  href="mail.albabellogroup.com">Zimbra</a>
                             </div>
                         </div>
                     </div>
