@@ -1323,7 +1323,7 @@
                                         <span class="icon-email"></span>
                                     </div>
                                     <div class="text">
-                                        <p><a href="mailto:needhelp@company.com">info@albabello.com</a></p>
+                                        <p><a href="mailto:info@albabello.com">info@albabello.com</a></p>
                                     </div>
                                 </li>
                                 <li>
@@ -1403,11 +1403,11 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:needhelp@packageName__.com">needhelp@insur.com</a>
+                <a href="mailto:info@albabello.com">info@albabello.com</a>
             </li>
             <li>
                 <i class="fa fa-phone-alt"></i>
-                <a href="tel:666-888-0000">666 888 0000</a>
+                <a href="tel:9200368090">+234 803 703 9539</a>
             </li>
         </ul><!-- /.mobile-nav__contact -->
         <div class="mobile-nav__top">
