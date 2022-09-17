@@ -100,10 +100,9 @@
                          </div>--}}
                         <div class="main-header__top-social-box">
                             <div class="main-header__top-social">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook"></i></a>
-                                <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="http://app.albabello.com">Memo</a>
+                                <a href="http://sage.albabello.com">Sage</a>
+                                <a href="mail.albabellogroup.com">Zimbra</a>
                             </div>
                         </div>
                     </div>
