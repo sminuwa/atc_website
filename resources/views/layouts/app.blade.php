@@ -102,7 +102,7 @@
                             <div class="main-header__top-social">
                                 <a target="_blank" href="http://app.albabello.com">Memo</a>
                                 <a target="_blank"  href="http://sage.albabello.com">Sage</a>
-                                <a target="_blank"  href="mail.albabellogroup.com">Zimbra</a>
+                                <a target="_blank"  href="http://mail.albabellogroup.com">Zimbra</a>
                             </div>
                         </div>
                     </div>
