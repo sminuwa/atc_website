@@ -1,0 +1,61 @@
+
+:root {
+    --insur-font: 'DM Sans', sans-serif;
+    --insur-reey-font: "reeyregular";
+    --insur-gray: #696e77;
+    --insur-gray-rgb: 105, 110, 119;
+    --insur-white: #ffffff;
+    --insur-white-rgb: 255, 255, 255;
+    --insur-base: #015fc9;
+    --insur-base-rgb: 1, 95, 201;
+    --insur-black: #16243d;
+    --insur-black-rgb: 22, 36, 61;
+    --insur-primary: #0ce0ff;
+    --insur-primary-rgb: 12, 224, 255;
+    --insur-extra: #f2f5f9;
+    --insur-extra-rgb: 242, 245, 249;
+    --insur-bdr-color: #e0e4e8;
+    --insur-bdr-color-rgb: 224, 228, 232;
+    --insur-bdr-radius: 10px;
+    --insur-letter-spacing: -0.02em;
+
+}
+
+
+.main-menu__wrapper-inner {
+    display: block;
+    padding: 0 0;
+}
+
+.main-menu__main-menu-box, .main-menu__call {
+    margin-top:30px;
+}
+
+.feature-one__single:hover .feature-one__icon {
+    background-image: -webkit-linear-gradient(0deg, rgb(12, 224, 255) 0%, rgb(1, 95, 201) 100%);
+}
+
+.get-insurance__input-box input[type="text"], .get-insurance__input-box input[type="email"], .get-insurance__input-box textarea {
+    height: 60px;
+    width: 100%;
+    border: 1px solid #dfe3e7;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 5px 20px 0px rgb(0 0 0 / 5%);
+    outline: none;
+    font-size: 16px;
+    color: var(--insur-gray);
+    font-weight: 400;
+    padding: 0 30px 0;
+    border-radius: var(--insur-bdr-radius);
+}
+
+.get-insurance__input-box textarea {
+    padding-top: 13px;
+}
+
+.team-one {
+    position: relative;
+    display: block;
+    padding: 120px 0 0;
+    overflow: hidden;
+}
