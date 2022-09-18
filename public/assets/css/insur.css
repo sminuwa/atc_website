@@ -432,9 +432,9 @@ ul {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/loader.png);
+  background-image: url(../../basic/logo.png);
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center gcenter;
   background-size: 60px auto;
   width: 100%;
   height: 100%;
